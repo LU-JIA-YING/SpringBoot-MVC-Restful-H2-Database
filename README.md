@@ -1,4 +1,4 @@
-# SpringBoot-MVC-Restful-H2-Database
+# SpringBoot-MVC-Restful-H2Database-SpringDataJPA
 
 #### H2-Database：http://localhost:8080/h2-console
 * spring.datasource.url=jdbc:h2:mem:training
