@@ -1,6 +1,10 @@
 # SpringBoot-MVC-Restful-H2-Database
 
-> H2-Database：http://localhost:8080/h2-console
+#### H2-Database：http://localhost:8080/h2-console
+* spring.datasource.url=jdbc:h2:mem:training
+* spring.datasource.driverClassName=org.h2.Driver
+* spring.datasource.username=sa
+* spring.datasource.password=sa
 
 > spring-restful-practice-Order:
 
