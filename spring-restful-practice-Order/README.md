@@ -1,5 +1,7 @@
 # SpringBoot-MVC-Restful-H2-Database
 
+將 8/5 的課堂作業（點餐  spring-restful-practice-Order）改寫成 H2 Database + Spring Data JPA
+
 #### H2-Database：http://localhost:8080/h2-console
 * spring.datasource.url=jdbc:h2:mem:training
 * spring.datasource.driverClassName=org.h2.Driver
